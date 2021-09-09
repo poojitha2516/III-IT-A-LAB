@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>PRACTICE PAGE</title>
+	</head>
+	
+	<body style = "background:orange;">
+		<h1 style = "color:blue; text-align:center;">
+			WELCOME TO MY PAGE
+		</h1>
+	
+	<div class = "split left">
+		<div style = "float:left; width:50%">
+			<form>
+				<h2>Enter Your Personal Details :</h2>
+				<h3>
+					Enter Your Name : <br>
+				    <input type="text" name="Name" style ="font-size: 20px; font-family: italic;"/><br><br>
+				
+				    Enter Your Roll Number : <br>
+				    <input type="text" id="Roll Number" style ="font-size: 20px; font-family: italic;"/><br><br>
+				    
+				    Enter Your College : <br>
+				    <input type="text" name="College Name" style ="font-size: 20px; font-family: italic;"/><br><br>
+				    
+				    Enter Your EmailId : <br>
+				    <input type="email" name="email" style ="font-size: 20px; font-family: italic;"/><br><br>
+				    
+				    Enter Your Phone Number : <br>
+				    <input type="text" id="Number" style ="font-size: 20px; font-family: italic;"/><br><br>
+				</h3>
+			</form>
+		</div>
+	</div>
+	
+	<div class = "split right">
+		<div style = "float:right; width:40%">
+			<form>
+				<h2>Select Your Hobbies :</h2>
+				<input type="checkbox" name = "Dancing">
+			    <label for="Dancing"> Dancing</label><br><br>
+			
+			    <input type="checkbox" name = "Singing">
+			    <label for="Singing"> Singing</label><br><br>
+			
+			    <input type="checkbox" name = "Playing">
+			    <label for="Playing"> Playing</label><br><br>
+			
+			    <input type="checkbox" name = "Reading">
+			    <label for="Reading"> Reading</label><br><br>
+			
+			    <input type="checkbox" name = "Watching TV">
+			    <label for="Watching TV"> Watching TV</label><br><br>
+			
+			    Other Hobbies :<br> 
+			    <input type="text" name ="Hobbie"/><br><br>
+			    <input type="text" name ="Hobbie"/><br><br>
+			    <input type="text" name ="Hobbie"/><br><br>
+			    <input type="text" name ="Hobbie"/><br><br>
+			</form>
+		</div>
+	</div>
+	
+	</body>
+</html>
