@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<CO>
+		<TITLE>XML Practice</TITLE>
+		<AUTHOR>Poojitha</AUTHOR>
+		<COUNTRY>INDIA</COUNTRY>
+		<COLLEGE>BVRITH</COLLEGE>
+	</CO>
+	
+	<CO>
+		<FRIENDS>
+			Sriya
+			Aparna
+			Naga Lakshmi
+			Shobitha
+			Laxmi
+			Bindu
+		</FRIENDS>
+		<TEACHER>Sangeetha mam</TEACHER>
+	</CO>
+</CATALOG>
